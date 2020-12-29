@@ -1,0 +1,56 @@
+{
+  "kj2utk1594372527191": {
+    "type": 1,
+    "color": "#66cc66",
+    "title": "Burp Suite",
+    "active": true,
+    "address": "127.0.0.1",
+    "port": 8080,
+    "proxyDNS": false,
+    "username": "",
+    "password": "",
+    "whitePatterns": [
+      {
+        "title": "all URLs",
+        "active": true,
+        "pattern": "*",
+        "type": 1,
+        "protocols": 1
+      }
+    ],
+    "blackPatterns": [],
+    "pacURL": "",
+    "index": 1
+  },
+  "logging": {
+    "size": 1000,
+    "active": false
+  },
+  "mode": "disabled",
+  "y45ivn1598119559863": {
+    "type": 1,
+    "color": "#66cc66",
+    "title": "VPN Proxy",
+    "active": true,
+    "address": "192.168.1.105",
+    "port": 8083,
+    "proxyDNS": false,
+    "username": "",
+    "password": "",
+    "whitePatterns": [
+      {
+        "title": "all URLs",
+        "active": true,
+        "pattern": "*",
+        "type": 1,
+        "protocols": 1
+      }
+    ],
+    "blackPatterns": [],
+    "pacURL": "",
+    "index": 0
+  },
+  "browserVersion": "85.0",
+  "foxyProxyVersion": "7.5.1",
+  "foxyProxyEdition": "standard"
+}
