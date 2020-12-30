@@ -1,0 +1,11 @@
+docker.io
+unzip
+vim
+vlc
+secure-delete
+xfce4-whiskermenu-plugin
+htop
+keepassxc
+powershell
+gparted
+ristretto
