@@ -1,4 +1,5 @@
 docker.io
+docker-compose
 unzip
 vim
 vlc
@@ -9,3 +10,9 @@ keepassxc
 powershell
 gparted
 ristretto
+net-tools
+burpsuite
+adb
+calibre
+okular
+libreoffice
