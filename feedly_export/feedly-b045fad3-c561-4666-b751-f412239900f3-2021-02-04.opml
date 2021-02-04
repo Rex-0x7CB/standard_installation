@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>RandomUser subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Security" title="Security">
+            <outline type="rss" text="Darknet" title="Darknet" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="https://www.darknet.org.uk"/>
+            <outline type="rss" text="Full Disclosure" title="Full Disclosure" xmlUrl="http://seclists.org/rss/fulldisclosure.rss" htmlUrl="http://seclists.org/#fulldisclosure"/>
+            <outline type="rss" text="SANS Internet Storm Center, InfoCON: green" title="SANS Internet Storm Center, InfoCON: green" xmlUrl="http://iscxml.sans.org/rssfeed.xml" htmlUrl="https://isc.sans.edu"/>
+            <outline type="rss" text="Microsoft Security Response Center" title="Microsoft Security Response Center" xmlUrl="http://blogs.technet.com/msrc/rss.xml" htmlUrl="https://msrc-blog.microsoft.com"/>
+            <outline type="rss" text="Dark Reading: Privacy" title="Dark Reading: Privacy" xmlUrl="http://www.darkreading.com/rss_simple.asp?f_n=650&amp;f_ln=Privacy" htmlUrl="https://www.darkreading.com"/>
+            <outline type="rss" text="Deeplinks" title="Deeplinks" xmlUrl="http://www.eff.org/rss/updates.xml" htmlUrl="https://www.eff.org/rss/updates.xml"/>
+            <outline type="rss" text="Google Online Security Blog" title="Google Online Security Blog" xmlUrl="http://googleonlinesecurity.blogspot.com/atom.xml" htmlUrl="http://security.googleblog.com/"/>
+            <outline type="rss" text="The Hacker News" title="The Hacker News" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="https://thehackernews.com/"/>
+            <outline type="rss" text="PrivacyTools" title="PrivacyTools" xmlUrl="https://blog.privacytools.io/rss/" htmlUrl="https://blog.privacytools.io/"/>
+            <outline type="rss" text="Privacy International News Feed" title="Privacy International News Feed" xmlUrl="https://www.privacyinternational.org/rss.xml" htmlUrl="http://www.privacyinternational.org/"/>
+            <outline type="rss" text="DataBreaches.net" title="DataBreaches.net" xmlUrl="http://feeds.feedburner.com/OfficeOfInadequateSecurity" htmlUrl="https://www.databreaches.net"/>
+            <outline type="rss" text="Malwarebytes Labs" title="Malwarebytes Labs" xmlUrl="http://blog.malwarebytes.org/feed/" htmlUrl="https://blog.malwarebytes.com"/>
+            <outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="http://www.darkreading.com/rss/all.xml" htmlUrl="https://www.darkreading.com"/>
+        </outline>
+        <outline text="CIS-India" title="CIS-India">
+            <outline type="rss" text="All Blogs" title="All Blogs" xmlUrl="https://cis-india.org/blogs/RSS/" htmlUrl="https://cis-india.org"/>
+            <outline type="rss" text="Posts" title="Posts" xmlUrl="https://cis-india.org/raw/posts/RSS/" htmlUrl="https://cis-india.org"/>
+        </outline>
+        <outline text="OSINT" title="OSINT">
+            <outline type="rss" text="osintme.com" title="osintme.com" xmlUrl="https://www.osintme.com/index.php/feed/" htmlUrl="https://www.osintme.com"/>
+            <outline type="rss" text="IntelTechniques Blog" title="IntelTechniques Blog" xmlUrl="https://inteltechniques.com/blog/feed/" htmlUrl="https://inteltechniques.com/blog"/>
+            <outline type="rss" text="Aware Online Academy" title="Aware Online Academy" xmlUrl="https://www.aware-online.com/en/feed/" htmlUrl="https://www.aware-online.com/en/"/>
+            <outline type="rss" text="WebBreacher's Hacking and Hiking Blog" title="WebBreacher's Hacking and Hiking Blog" xmlUrl="https://webbreacher.wordpress.com/feed/" htmlUrl="https://webbreacher.com"/>
+            <outline type="rss" text="Have I Been Pwned latest breaches" title="Have I Been Pwned latest breaches" xmlUrl="http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches" htmlUrl="https://haveibeenpwned.com/"/>
+            <outline type="rss" text="We are OSINTCurio.us" title="We are OSINTCurio.us" xmlUrl="https://osintcurio.us/feed/" htmlUrl="https://osintcurio.us"/>
+        </outline>
+    </body>
+</opml>
